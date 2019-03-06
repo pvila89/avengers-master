@@ -15,4 +15,4 @@
 * Vision
 * Wasp
 * Antman
-* Rick Fury
+* Rick Fury dos
